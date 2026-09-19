@@ -40,3 +40,4 @@ A modern, responsive web application built with Flask and Vanilla JS to analyze 
    - **Start Command:** `gunicorn app:app`
 
 *Developed by Farhath*
+resume analyzer render live link : https://resume-analyzer-web-83v7.onrender.com
